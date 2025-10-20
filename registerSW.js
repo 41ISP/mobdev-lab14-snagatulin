@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/mobdev-lab14-snagatulin/sw.js', { scope: '/mobdev-lab14-snagatulin/' })})}
