@@ -36,6 +36,6 @@ export const router = createBrowserRouter([
     },
 ],
   {
-    basename: "/mobdev-lab13-snagatulin", 
+    basename: "/mobdev-lab14-snagatulin", 
   }
 )
